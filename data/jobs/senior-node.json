@@ -1,0 +1,13 @@
+{
+  "title": "Senior Node.js Engineer",
+  "seniority": "senior",
+  "minYearsExperience": 5,
+  "requiredSkills": [
+    { "skill": "Node.js", "weight": 5 },
+    { "skill": "TypeScript", "weight": 5 },
+    { "skill": "NestJS", "weight": 4 },
+    { "skill": "PostgreSQL", "weight": 3 },
+    { "skill": "Docker", "weight": 2 }
+  ],
+  "niceToHaveSkills": ["Kubernetes", "Kafka", "AWS"]
+}

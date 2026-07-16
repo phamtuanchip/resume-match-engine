@@ -1,0 +1,16 @@
+Senior Backend Engineer (Payments)
+
+We are looking for a senior backend engineer with 5+ years of experience to join our
+payments team.
+
+Required skills:
+- Node.js (5)
+- TypeScript (4)
+- PostgreSQL (4)
+- Docker (2)
+
+Nice to have:
+- Kafka
+- Kubernetes
+
+You will design APIs, own services end to end, and mentor junior engineers.

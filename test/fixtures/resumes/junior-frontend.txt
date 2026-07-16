@@ -1,0 +1,17 @@
+An Nguyen
+an.nguyen@example.com
+0901 234 567
+
+EXPERIENCE
+
+Junior Frontend Developer | Webify | Jun 2024 - Present
+- Built UI components in React and CSS
+- Wrote unit tests with Jest
+
+EDUCATION
+
+Bachelor of Software Engineering, FPT University, 2020 - 2024
+
+SKILLS
+
+JavaScript, reactjs, HTML, CSS

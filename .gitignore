@@ -1,0 +1,46 @@
+# ── Dependencies & build ─────────────────────────────────────────────────────
+node_modules/
+dist/
+*.tsbuildinfo
+
+# ── Test coverage ─────────────────────────────────────────────────────────────
+coverage/
+
+# ── Environment & secrets ────────────────────────────────────────────────────
+.env
+.env.*
+*.env
+secrets.json
+secrets.*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.cert
+*.crt
+
+# ── Runtime output (GDPR / generated) ───────────────────────────────────────
+# data/resumes/ and data/parsed/ are committed sample fixtures
+data/results/
+data/parsed/
+data/pii-vault/
+
+docs/
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

@@ -1,0 +1,23 @@
+An Nguyen
+Da Nang, Vietnam
+annguyen.dev@example.com
+0905 111 222
+
+Summary
+Junior frontend developer, one year of professional experience after an internship.
+Passionate about UI performance and design systems.
+
+Experience
+
+Frontend Developer | Webify Studio | Sep 2024 - Present
+- Build responsive interfaces with React and CSS
+- Write unit tests with Jest and Cypress
+
+Frontend Intern, Webify Studio (Jun 2024 - Aug 2024)
+- Fixed UI bugs in a JS codebase and learned the review process
+
+Education
+B.Eng. Software Engineering, Da Nang University of Technology, 2020 - 2024
+
+Skills
+JavaScript, React, HTML, CSS, Sass, Git, Jest

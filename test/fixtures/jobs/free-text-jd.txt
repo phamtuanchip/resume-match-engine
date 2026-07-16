@@ -1,0 +1,15 @@
+Senior Backend Engineer
+
+We are looking for a senior engineer with 5+ years of experience.
+
+Required skills:
+- TypeScript (5)
+- nodejs (5)
+- NestJS (4)
+- PostgreSQL (3)
+- AWS (3)
+
+Nice to have:
+- Docker
+- Redis
+- GraphQL

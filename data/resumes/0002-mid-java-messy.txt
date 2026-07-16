@@ -1,0 +1,17 @@
+MINH TRAN -- resume (updated!!)
+contact: minh.t@example.com
+
+worked places:
+
+Backend Developer, FinServe JSC 2021 - 2024
+- java spring boot services for payments
+- postgres db, redis cache, docker
+
+Software Developer at CodeHouse
+- built internal tools, sql reports
+- (dates unclear, roughly two years)
+
+studied at
+Hanoi University of Science and Technology, Bachelor, 2015 2019
+
+things i know: java, spring, sql, postgres, docker, k8s, git

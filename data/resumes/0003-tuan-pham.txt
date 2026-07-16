@@ -1,0 +1,26 @@
+Tuan Pham
+Ho Chi Minh City, Vietnam
+
+Summary
+Senior full-stack engineer with a decade of experience building backend platforms and
+leading small product teams. Focus on Node.js/TypeScript services and AI integration.
+
+Experience
+
+Lead Software Engineer | BrightWave Solutions | Mar 2019 - Present
+- Led a team of 5 engineers building a recruitment platform on NestJS and PostgreSQL
+- Designed REST APIs and event-driven pipelines with Kafka processing 2M events/day
+- Introduced LLM-assisted resume screening using the Claude API
+- Set up CI/CD with Jenkins and Docker, deployed on AWS (ECS, S3, RDS)
+
+Senior Backend Engineer | Saigon Digital | Jun 2014 - Feb 2019
+- Built microservices in Node.js and Express backed by MongoDB and Redis
+- Migrated a PHP monolith to TypeScript services with zero downtime
+- Mentored 4 junior developers; ran weekly code reviews
+
+Education
+B.Sc. Computer Science, Vietnam National University, 2010 - 2014
+
+Skills
+TypeScript, JavaScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Kafka,
+Docker, Kubernetes, AWS, Git, CI/CD, Jest

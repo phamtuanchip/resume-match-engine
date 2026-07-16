@@ -1,0 +1,8 @@
+{
+  "title": "Broken Job",
+  "seniority": "senior",
+  "requiredSkills": [
+    { "skill": "TypeScript", "weight": 6 },
+    { "skill": "Node.js", "weight": 0 }
+  ]
+}

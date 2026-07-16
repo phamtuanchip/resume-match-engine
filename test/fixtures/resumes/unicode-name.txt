@@ -1,0 +1,11 @@
+Nguyễn Văn A
+nguyen.van.a@example.com | +84 987 654 321
+
+EXPERIENCE
+
+Software Engineer | Sài Gòn Tech | Feb 2021 - Present
+- Xây dựng REST APIs bằng Python
+
+SKILLS
+
+Python, SQL, Docker

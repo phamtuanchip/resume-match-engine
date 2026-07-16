@@ -1,0 +1,21 @@
+Tuan Pham
+Email: tuan.pham@example.com | Phone: +84 912 345 678
+Ho Chi Minh City, Vietnam
+
+EXPERIENCE
+
+Senior Engineer | TechCorp | Jan 2020 - Present
+- Led migration of a monolith to NestJS microservices on AWS
+- Built CI/CD pipelines with Jenkins and Docker
+
+Backend Developer | Webify | Mar 2016 - Dec 2019
+- Developed REST APIs in Node.js and TypeScript
+- Modeled data in PostgreSQL and Redis
+
+EDUCATION
+
+Bachelor of Computer Science, HCMC University of Technology, 2012 - 2016
+
+SKILLS
+
+TypeScript, JS, Node.js, NestJS, AWS, Docker, PostgreSQL, Redis
