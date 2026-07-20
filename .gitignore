@@ -25,7 +25,7 @@ data/results/
 data/parsed/
 data/pii-vault/
 
-docs/
+review/
 # ── Logs ─────────────────────────────────────────────────────────────────────
 *.log
 npm-debug.log*
